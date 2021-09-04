@@ -49,7 +49,7 @@
                                     <input type="hidden" name="txtId" placeholder="Nombre" value="<%=usuid%>">
                                     <select class="custom-select" name="txtEstado">
                                         <option selected>Seleciona el nuevo estado</option>
-                                        <option value="Activo">Activo</option>
+                                        <option value="Activo">Activoo</option>
                                         <option value="Inactivo">Inactivo</option>
                                     </select>
                                     <center>
